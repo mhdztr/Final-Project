@@ -82,11 +82,11 @@ Retrieve statistics about the cases in the system
 Add a new case
 
 This one's a bit tricky to test because you do need to upload a pdf file as a document.
-But here's a step by step to post\n
-1. In Postman, go to body, and change type to "form data"\n
-2. Make sure you're in "key value edit"\n
-3. Inside the key column, there will be a drop down menu\n
-4. Choose a pdf document and now you can upload it\n
+But here's a step by step to post
+1. In Postman, go to body, and change type to "form data"
+2. Make sure you're in "key value edit"
+3. Inside the key column, there will be a drop down menu
+4. Choose a pdf document and now you can upload it
 
 Your file should be uploaded in a folder called "uploads".
 It's stored in this directory, again i did it so you dont have to.
